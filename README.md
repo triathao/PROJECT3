@@ -1,30 +1,26 @@
-# PROJECT3
+# Project3 Transparent Auto Detail
 
-# Getting Started with Create React App
+# Project Description![image](https://user-images.githubusercontent.com/70989579/110222005-2e26a700-7e84-11eb-9d73-77bdc494e1e2.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## User Story ![image](https://user-images.githubusercontent.com/70989579/110222014-3979d280-7e84-11eb-96a7-dd4e7026aa1d.png)
 
-In the project directory, you can run:
+As someone who takes pride in their car, I want to be able find an auto detail shop that provides excellent services. I want to be able see price points and the different services offer. I want to be able to select my vehicle make, model, and year for a more accurate online quote. I want to be able to see an open schedule calendar to manage my time and set appointments. I want to know what kind of products used, warranty, insurance cover, and satisfactory guarantee offer. I want to see images and videos of before and after to critique the shops crafts kills to help me make a better decision. ![image](https://user-images.githubusercontent.com/70989579/110222019-3e3e8680-7e84-11eb-9070-1659f58a3368.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Technologies![image](https://user-images.githubusercontent.com/70989579/110222023-45fe2b00-7e84-11eb-94d4-5bf6879625b3.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+FrontendD
+•	React
+•	JavaScript
+•	Bootstrap
+•	Responsive design
+•	Web API – CSI Automotive API 
+•	Google Calendar API
 
-### `npm test`
+Backend
+•	MongoDB - Mongoose
+•	Node.js
+•	Express Web Server  
+![image](https://user-images.githubusercontent.com/70989579/110222030-4eeefc80-7e84-11eb-8c29-1714fdd9c904.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
