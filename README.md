@@ -22,7 +22,7 @@ Backend
 •	Express Web Server  
 
 
-<img width="343" alt="Screen Shot 2021-03-06 at 2 02 57 PM" src="https://user-images.githubusercontent.com/70989579/110222104-bad16500-7e84-11eb-8d04-63af75cc3087.png">
+<img width="643" alt="Screen Shot 2021-03-06 at 2 02 57 PM" src="https://user-images.githubusercontent.com/70989579/110222104-bad16500-7e84-11eb-8d04-63af75cc3087.png">
 
 <img width="794" alt="Screen Shot 2021-03-08 at 9 26 57 PM" src="https://user-images.githubusercontent.com/70989579/110422927-0aff2180-8055-11eb-8972-04807fd44742.png">
 
